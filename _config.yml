@@ -1,1 +1,1 @@
-include: [".nojekyll", "node_modules"]
+include: ["node_modules"]
