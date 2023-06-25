@@ -1,7 +1,7 @@
 Flexbox Froggy
 =======
 
-Flexbox Froggy is a game for learning CSS flexbox. Check it out at [flexboxfroggy.com](https://flexbox-froggy.vercel.app/).
+Flexbox Froggy is a game for learning CSS flexbox. Check it out at [Check it out](https://flexbox-froggy.vercel.app/).
 
 ![FontCDN screenshot](./images/screenshot.png)
 
