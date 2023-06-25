@@ -7,7 +7,7 @@ Flexbox Froggy is a game for learning CSS flexbox. Check it out at [Check it out
 
 ## Author
 
-Thomas Park
+Radhesh Goel
 
 * [Twitter](https://twitter.com/radhesh1)
 * [Homepage](https://portfolio-radhesh1.vercel.app)
